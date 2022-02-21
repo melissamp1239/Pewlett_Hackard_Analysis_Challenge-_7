@@ -9,7 +9,7 @@ In response to the silver tsunami, the purpose of the first deliverable was to d
 
 -The company is least likely to lose its managers to retirement (n=2). 
 
-![This is a line graph image]
+![This is a line graph image](https://github.com/melissamp1239/Pewlett_Hackard_Analysis_Challenge-_7/blob/main/retiring%20titles.png)
 
 ### Deliverable Two- The Employees Eligible for the Mentorship Program.
 -Among employees eligible to participate in the mentorship program, only 937, given their professional backgrounds, have the professional potential to replace the retiring senior engineers; specifically: assistant engineers (n=89), engineers (n=506), senior engineers (n=342). 
